@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.out1{
+    border: solid 1px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+#in1,#in2{
+    border: solid 1px;
+    height: 100px;
+}
+#in1{
+    width: 100px;
+    margin-left: 100px;
+}
+#in2{
+    width: 700px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    border: solid 1px;
+    height: 100px;
+    width: 130px;
+    float: left;
+    text-align: center;
+    line-height: 100px;
+}
+ul li a{
+    font-size: 21px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+ul li a:hover{
+    color: orangered;
+}
+.out2{
+    border: solid 1px;
+    height: 780px;
+    background-image: url(hamburger-7877317_1280.webp);
+    background-repeat: no-repeat;
+    background-size: 2200px 900px;
+}
+#welcome{
+    color: white;
+    font-size: 50px;
+    margin-left: 90mp;
+    margin-top: 140px;
+    text-shadow: 3px 3px 5px white;
+}
+#taste{
+    color: white;
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+#menu{
+    margin-left: 90px;
+    margin-top: 10px;
+    height: 45px;
+    width: 200px;
+    color: white;
+    background-color: orangered;
+    font-size: 18px;
+    font-weight: bold;
+}
+.out3{
+    border: solid 1px;
+    height: 570px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in3,#in4{
+    border: solid 1px;
+    height: 450px;
+}
+#in3{
+    width: 400px;
+}
+#in4{
+    width: 600px;
+}
+#about{
+    font-size: 45px;
+    margin-top: 20px;
+    color: white;
+}
+#text1{
+    font-size: 30px;
+    color: white;
+}
+.out4{
+    border: solid 1px;
+    height: 900px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+#in5,#in6,#in7{
+    border: solid 1px;
+    height: 600px;
+    width: 350px;
+}
+#menu1{
+    color: beige;
+    font-size: 30px;
+}
+#menu2{
+    color: white;
+    font-size: 20px;
+}
